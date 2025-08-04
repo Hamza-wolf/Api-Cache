@@ -35,7 +35,7 @@ It automatically:
 
 1) Clone
 
-git clone https://github.com/<your-user>/stream-proxy.git
+git clone https://github.com/Hamza-wolf/Api-Cache.git
 cd stream-proxy
 2) Copy the file into your server
 
